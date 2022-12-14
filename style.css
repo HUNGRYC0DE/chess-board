@@ -1,0 +1,15 @@
+body{
+    margin:0 ;
+    display: flex;
+    justify-content: center;
+}
+.main{
+    margin-top: 100px;
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    background-color: rgb(208, 182, 150);
+}
+td{
+border: 1px solid black;
+}
